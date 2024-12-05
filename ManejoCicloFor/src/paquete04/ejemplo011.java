@@ -8,7 +8,7 @@ package paquete04;
  *
  * @author utpl
  */
-public class ejemplo011 {
+public class Ejemplo011 {
 
     public static void main(String[] args) {
 
